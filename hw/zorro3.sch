@@ -207,4 +207,124 @@ Wire Wire Line
 	6250 5350 6600 5350
 Wire Wire Line
 	6600 5450 6250 5450
+Text HLabel 4350 6050 0    47   BiDi ~ 0
+~FCS
+Wire Wire Line
+	4350 6050 4650 6050
+Text HLabel 4350 5850 0    47   BiDi ~ 0
+DOE
+Wire Wire Line
+	4350 5850 4650 5850
+Text HLabel 6600 6050 2    47   BiDi ~ 0
+~DS1
+Wire Wire Line
+	6600 6050 6250 6050
+Text HLabel 6600 4750 2    47   BiDi ~ 0
+~DS3
+Text HLabel 6600 4650 2    47   BiDi ~ 0
+~DS2
+Wire Wire Line
+	6250 4650 6600 4650
+Wire Wire Line
+	6600 4750 6250 4750
+Text HLabel 4350 3750 0    47   BiDi ~ 0
+~DS0
+Wire Wire Line
+	4350 3750 4650 3750
+Text HLabel 4350 2750 0    47   BiDi ~ 0
+FC0
+Text HLabel 4350 2850 0    47   BiDi ~ 0
+FC1
+Text HLabel 4350 2950 0    47   BiDi ~ 0
+FC2
+Wire Wire Line
+	4350 2750 4650 2750
+Wire Wire Line
+	4650 2850 4350 2850
+Wire Wire Line
+	4350 2950 4650 2950
+Text HLabel 4350 1650 0    47   BiDi ~ 0
+~SLAVEn
+Text HLabel 4350 1750 0    47   BiDi ~ 0
+~CFGOUTn
+Wire Wire Line
+	4350 1650 4650 1650
+Wire Wire Line
+	4650 1750 4350 1750
+Text HLabel 6600 1750 2    47   BiDi ~ 0
+~CFGINn
+Wire Wire Line
+	6600 1750 6250 1750
+Text HLabel 4350 2050 0    47   BiDi ~ 0
+~CINH
+Wire Wire Line
+	4350 2050 4650 2050
+Text HLabel 4350 2150 0    47   BiDi ~ 0
+~INT2
+Wire Wire Line
+	4350 2150 4650 2150
+Text HLabel 6600 2050 2    47   BiDi ~ 0
+~MTCR
+Wire Wire Line
+	6250 2050 6600 2050
+Text HLabel 6600 2250 2    47   BiDi ~ 0
+~INT6
+Wire Wire Line
+	6250 2250 6600 2250
+Text HLabel 6600 3450 2    47   BiDi ~ 0
+~BERR
+Text HLabel 6600 3550 2    47   BiDi ~ 0
+~MTACK
+Wire Wire Line
+	6250 3550 6600 3550
+Wire Wire Line
+	6250 3450 6600 3450
+Text HLabel 6600 4150 2    47   BiDi ~ 0
+~BR
+Text HLabel 6600 4250 2    47   BiDi ~ 0
+~BGACK
+Text HLabel 6600 4350 2    47   BiDi ~ 0
+~BGn
+Text HLabel 6600 4450 2    47   BiDi ~ 0
+~DTACK
+Text HLabel 6600 4550 2    47   BiDi ~ 0
+READ
+Wire Wire Line
+	6250 4150 6600 4150
+Wire Wire Line
+	6600 4250 6250 4250
+Wire Wire Line
+	6250 4350 6600 4350
+Wire Wire Line
+	6600 4450 6250 4450
+Wire Wire Line
+	6250 4550 6600 4550
+Text HLabel 6600 4850 2    47   BiDi ~ 0
+~CCS
+Wire Wire Line
+	6250 4850 6600 4850
+Text HLabel 6600 5750 2    47   BiDi ~ 0
+7M
+Wire Wire Line
+	6600 5750 6250 5750
+Text HLabel 6600 5850 2    47   BiDi ~ 0
+~IORST
+Wire Wire Line
+	6600 5850 6250 5850
+Text HLabel 4350 5950 0    47   BiDi ~ 0
+~BCLR
+Wire Wire Line
+	4350 5950 4650 5950
+Text HLabel 4350 3850 0    47   BiDi ~ 0
+~RESET
+Text HLabel 4350 3950 0    47   BiDi ~ 0
+~HLT
+Wire Wire Line
+	4350 3850 4650 3850
+Wire Wire Line
+	4650 3950 4350 3950
+Text HLabel 4350 2650 0    47   BiDi ~ 0
+~LOCK
+Wire Wire Line
+	4350 2650 4650 2650
 $EndSCHEMATC
