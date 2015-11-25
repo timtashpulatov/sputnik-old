@@ -34,7 +34,7 @@ EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -168,4 +168,10 @@ Wire Notes Line
 	3350 3100 3050 3100
 Wire Notes Line
 	3050 3100 3050 2300
+$Sheet
+S 4100 1100 3100 4250
+U 5655FACE
+F0 "FPGA" 60
+F1 "fpga.sch" 60
+$EndSheet
 $EndSCHEMATC
